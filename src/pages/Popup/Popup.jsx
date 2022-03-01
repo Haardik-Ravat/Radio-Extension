@@ -11,9 +11,9 @@ const Popup = () => {
     <div className="App">
       <header className="App-header">
         <Lst/>
-        <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
-          Edit 
+
         </p>
         <PlayBtn/>
         <VSlider/>
