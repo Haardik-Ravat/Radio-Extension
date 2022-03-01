@@ -5,7 +5,7 @@ import DeleteIcon from '@mui/icons-material/Delete';
 
 export default function PlayBtn() {
   return (
-      <IconButton >
+      <IconButton size="large">
         <DeleteIcon fontSize="inherit" />
       </IconButton>
   );
