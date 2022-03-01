@@ -20,7 +20,7 @@ export default function VSlider() {
         aria-label="Volume" 
         value={value} 
         onChange={handleChange} 
-        color="secondary"
+        color="primary"
         valueLabelDisplay="auto"
         />
         <VolumeUp />

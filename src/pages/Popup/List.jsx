@@ -20,11 +20,12 @@ export default function Lst() {
           onChange={handleChange}
           autoWidth
           label="Location"
+          color="primary"
         >
           <MenuItem value="">
             <em>None</em>
           </MenuItem>
-          <MenuItem value={10}>Twenty</MenuItem>
+          <MenuItem value={10}>India</MenuItem>
           <MenuItem value={21}>Twenty one</MenuItem>
           <MenuItem value={22}>Twenty one and a half</MenuItem>
         </Select>
